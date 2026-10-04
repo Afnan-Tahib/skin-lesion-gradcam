@@ -66,10 +66,10 @@ Fill in after training (from `results/metrics.json`):
 
 | Metric | Value |
 |---|---|
-| Test accuracy | _ |
-| Macro F1 | _ |
-| Weighted F1 | _ |
-| Melanoma recall | _ |
+| Test accuracy | 78.3% |
+| Macro F1 | 0.665 |
+| Weighted F1 | 0.797 |
+| Melanoma recall | 70.6% |
 
 Figures in `results/`: `training_curves.png`, `confusion_matrix.png`, `gradcam_correct.png`, `gradcam_wrong.png`.
 
