@@ -1,0 +1,8 @@
+{
+  "test_images": 1494,
+  "accuracy": 0.7831325301204819,
+  "macro_f1": 0.6651263774292333,
+  "weighted_f1": 0.7966343171028066,
+  "melanoma_recall": 0.7058823529411765,
+  "melanoma_precision": 0.4444444444444444
+}
